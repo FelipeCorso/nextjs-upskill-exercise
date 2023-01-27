@@ -1,0 +1,17 @@
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    background-color: blueviolet;
+  }
+  
+  .homeLink {
+    width: 50%;
+    margin: auto;
+  }
+  
+  .links {
+    margin: auto;
+  }
+  

@@ -1,3 +1,5 @@
+mongodb.credentials
+
 # Logs
 logs
 *.log
